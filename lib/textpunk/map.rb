@@ -1,5 +1,7 @@
 class Airship
 
+	
+
 	def initialize(states)
 		@states = states
 	end
